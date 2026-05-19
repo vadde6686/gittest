@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/vadde6686/gittest.git"
   },
-  "license": "ISC",
+  "license": "ISC1",
   "author": "",
   "type": "commonjs",
   "main": "index.js",
